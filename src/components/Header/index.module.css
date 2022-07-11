@@ -1,0 +1,43 @@
+header {
+  background: #3a3b3c;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+.wrapper {
+  min-height: 100px;
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  height: 60px;
+  width: 32px;
+}
+
+.title {
+  font-family: "Noto Serif", serif;
+  font-weight: 700;
+  font-size: 32px;
+  color: #ffffff;
+  margin-left: 16px;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  min-width: 440px;
+  justify-content: space-between;
+}
+
+.link {
+  font-family: "Noto Serif", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}

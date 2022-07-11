@@ -1,0 +1,13 @@
+footer {
+  background: #ff5300;
+}
+
+.copy {
+  padding: 16px 0;
+  text-align: center;
+  font-family: "Noto Serif", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+}
